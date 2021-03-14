@@ -1,4 +1,4 @@
-# Rust Tensorflow template for NixOS
+# Tensorflow with Rust (template for NixOS)
 
 ## Setup:
 
