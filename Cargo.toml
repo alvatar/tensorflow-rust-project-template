@@ -1,0 +1,9 @@
+[package]
+name = "rust-tensorflow-project-template"
+version = "0.16.0"
+description = "Rust TensorFlow project template."
+license = "Apache-2.0"
+edition = "2018"
+
+[dependencies]
+tensorflow = { version = "0.16.0", features = ["tensorflow_gpu"] }
